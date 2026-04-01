@@ -6,14 +6,9 @@ Sistema de gerenciamento de vagas de emprego desenvolvido em JavaScript puro, ut
 
 ## 🚀 Como rodar o projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/LeoohvDev/sistema-vagas-empregos.git
-```
+1. Abra o arquivo `sistemaVagas.html` no navegador.
 
-2. Abra o arquivo `sistemaVagas.html` no navegador.
-
-3. O sistema será iniciado automaticamente via `prompt`.
+2. O sistema será iniciado automaticamente via `prompt`.
 
 ---
 
